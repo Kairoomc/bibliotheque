@@ -1,30 +1,37 @@
-# 📚 Application de Gestion de Bibliothèque
+<h1 align="center">📚 Application de Gestion de Bibliothèque</h1>
+<p align="center">
+  Application Java complète pour gérer une bibliothèque de livres avec interface graphique moderne.
+</p>
 
-Une application Java complète pour gérer une bibliothèque de livres :
-
-- 🖥️ Version Desktop avec **Java Swing** et design moderne (FlatLaf)
-
----
-
-## 🧠 Fonctionnalités
-
-### Communes aux deux versions :
-- Ajouter, afficher, rechercher, supprimer des livres
-- Sauvegarde persistante (fichier texte ou base de données)
-- Interface utilisateur moderne et responsive
-- Code organisé avec les bonnes pratiques Java
-
-###  Version Desktop (Swing + FlatLaf)
-- Interface dark/clean avec FlatLaf
-- Application autonome (`.jar`)
-- Recherche en direct, suppression, gestion intuitive
+<p align="center">
+  🖥️ Version Desktop avec <strong>Java Swing</strong> et design moderne via <strong>FlatLaf</strong>
+</p>
 
 ---
 
-##  Techno utilisées
+## ✨ Fonctionnalités
 
-| Version      | Technologies                                             |
-|--------------|----------------------------------------------------------|
-| Desktop      | Java 17+, Swing, FlatLaf, MVC                            |
+### 🔄 Fonctionnalités générales
+- ➕ Ajouter des livres
+- 🔍 Rechercher en temps réel
+- 🗑️ Supprimer un livre
+- 📋 Afficher la liste des livres
+- 💾 Sauvegarde persistante automatique
+- 🖥️ Interface utilisateur moderne et responsive
+- 🧼 Code propre, structuré et commenté
+
+### 🖥️ Version Desktop (Java Swing + FlatLaf)
+- 🎨 Interface sombre ou claire avec thème FlatLaf
+- 🔍 Recherche dynamique par titre
+- ✅ Application exécutable en `.jar`
+- 🧠 Conception orientée objet (MVC)
+
+---
+
+## 🛠️ Technologies utilisées
+
+| Plateforme  | Technologies                                     |
+|-------------|--------------------------------------------------|
+| Desktop     | Java 17+, Swing, FlatLaf, MVC                    |
 
 ---
